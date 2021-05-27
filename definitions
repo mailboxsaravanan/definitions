@@ -1,0 +1,31 @@
+Task-1
+Definition
+------------
+#variable - kind of brief case 
+
+#function - set of code , we can call whenever needed (DR team , Police)
+
+#data type - different forms , will be store in variables , when create data values , type will be set automatically.
+
+#operator - operate between variables and values
+
+#data structure - keeping data in someorder , in order to retreive as needed basis 
+
+#inbuilt function - some of the functions are readily available in python interpreter
+
+#oops - object = variables+functions
+
+Task-2
+print ('i'm fine')
+
+print ('I\'m fine')
+
+escape character \
+
+To insert characters that are illegal in a string
+
+Task-3
+% = Remainder
+// = quotient
+** = square power
+**3 = power 3.. and so on
