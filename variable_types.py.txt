@@ -1,0 +1,34 @@
+#varibale declaration-Valid syntax
+a = 10
+camel = 6.5
+_Newton = 9.8
+Color = 'Orange'
+a10 = 20
+
+#case sensitive , are all different variables
+age = 60
+AGE = 61
+Age = 62
+
+#multiwords valid variables
+Heisfrom = "Mumbai"
+He_Is_From = "Delhi"
+hEiSfROM = "Ahamedabad"
+
+#varibale declaration-invalid syntax
+# 4b = "Saravanan"
+# sa& = '40'
+
+print (a)
+#print (b)
+print (camel)
+print (_Newton)
+print (Color)
+print (a10)
+# print (sa&)
+print (age)
+print (AGE)
+print (Age)
+print (Heisfrom)
+print (He_Is_From)
+print (hEiSfROM)
