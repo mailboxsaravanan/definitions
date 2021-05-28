@@ -107,3 +107,10 @@ print (A)
 print (type(A))
 print (B)
 print (type(B))
+
+"""	Int	Float	Bool	Str
+int	x	Yes	yes	yes
+float	Yes	x	Yes	yes
+Bool	Yes	Yes	x	yes
+Str	No	No	yes	x
+"""
